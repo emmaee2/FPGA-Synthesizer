@@ -1,0 +1,129 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "sample_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "sample_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sample_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "sample_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sample_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "sample_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "sample_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "sample_out[7]",
+					"strict" : false
+				},
+				{
+					"name" : "sample_out[8]",
+					"strict" : false
+				},
+				{
+					"name" : "sample_out[9]",
+					"strict" : false
+				},
+				{
+					"name" : "sample_out[10]",
+					"strict" : false
+				},
+				{
+					"name" : "sample_out[11]",
+					"strict" : false
+				},
+				{
+					"name" : "sample_out[12]",
+					"strict" : false
+				},
+				{
+					"name" : "sample_out[13]",
+					"strict" : false
+				},
+				{
+					"name" : "sample_out[14]",
+					"strict" : false
+				},
+				{
+					"name" : "sample_out[15]",
+					"strict" : false
+				},
+				{
+					"name" : "Clk",
+					"strict" : false
+				},
+				{
+					"name" : "Reset",
+					"strict" : false
+				},
+				{
+					"name" : "data_over",
+					"strict" : false
+				},
+				{
+					"name" : "pluck",
+					"strict" : false
+				},
+				{
+					"name" : "stringlen[9]",
+					"strict" : false
+				},
+				{
+					"name" : "stringlen[8]",
+					"strict" : false
+				},
+				{
+					"name" : "stringlen[7]",
+					"strict" : false
+				},
+				{
+					"name" : "stringlen[6]",
+					"strict" : false
+				},
+				{
+					"name" : "stringlen[5]",
+					"strict" : false
+				},
+				{
+					"name" : "stringlen[4]",
+					"strict" : false
+				},
+				{
+					"name" : "stringlen[3]",
+					"strict" : false
+				},
+				{
+					"name" : "stringlen[2]",
+					"strict" : false
+				},
+				{
+					"name" : "stringlen[1]",
+					"strict" : false
+				},
+				{
+					"name" : "stringlen[0]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

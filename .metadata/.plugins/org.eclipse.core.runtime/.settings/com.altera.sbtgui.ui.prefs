@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+newSoftwareExampleWizardPage.defaultLocation=C\:\\dev\\385\\MultiInstrumentSynth\\FPGASynthesizer\\software\\Instrument
+newSoftwareExampleWizardPage.sopcinfoFile=C\:\\dev\\385\\MultiInstrumentSynth\\FPGASynthesizer\\nios_system.sopcinfo
+newSoftwareExampleWizardPage2.newBspLocation=C\:\\dev\\385\\MultiInstrumentSynth\\FPGASynthesizer\\software\\Instrument_bsp

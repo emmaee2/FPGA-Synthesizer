@@ -1,0 +1,393 @@
+23:01:26 **** Incremental Build of configuration Nios II for project Instrument_bsp ****
+make all 
+[BSP build complete]
+23:01:43 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+23:34:54 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+23:34:55 **** Incremental Build of configuration Nios II for project Instrument_bsp ****
+make all 
+[BSP build complete]
+23:35:03 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+23:43:19 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+23:43:21 **** Incremental Build of configuration Nios II for project Instrument_bsp ****
+make all 
+[BSP build complete]
+23:43:34 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+23:43:56 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+23:44:22 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+23:50:00 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+23:50:01 **** Incremental Build of configuration Nios II for project Instrument_bsp ****
+make all 
+[BSP build complete]
+23:50:37 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+00:05:57 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+00:05:58 **** Incremental Build of configuration Nios II for project Instrument_bsp ****
+make all 
+[BSP build complete]
+00:06:20 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+00:24:07 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+00:24:08 **** Incremental Build of configuration Nios II for project Instrument_bsp ****
+make all 
+[BSP build complete]
+00:24:21 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+00:47:53 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+00:47:54 **** Incremental Build of configuration Nios II for project Instrument_bsp ****
+make all 
+[BSP build complete]
+00:48:05 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+00:56:05 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+00:56:07 **** Incremental Build of configuration Nios II for project Instrument_bsp ****
+make all 
+[BSP build complete]
+00:56:26 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+00:56:27 **** Incremental Build of configuration Nios II for project Instrument_bsp ****
+make all 
+[BSP build complete]
+00:56:46 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+01:19:55 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+01:19:56 **** Incremental Build of configuration Nios II for project Instrument_bsp ****
+make all 
+[BSP build complete]
+01:20:11 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+01:28:38 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+01:28:39 **** Incremental Build of configuration Nios II for project Instrument_bsp ****
+make all 
+[BSP build complete]
+01:28:49 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+01:37:27 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+01:37:28 **** Incremental Build of configuration Nios II for project Instrument_bsp ****
+make all 
+[BSP build complete]
+01:37:42 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+01:43:11 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+01:43:12 **** Incremental Build of configuration Nios II for project Instrument_bsp ****
+make all 
+[BSP build complete]
+01:43:18 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+01:43:38 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+02:29:32 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+02:29:34 **** Incremental Build of configuration Nios II for project Instrument_bsp ****
+make all 
+[BSP build complete]
+02:29:42 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+02:30:03 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+02:51:06 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+02:51:08 **** Incremental Build of configuration Nios II for project Instrument_bsp ****
+make all 
+[BSP build complete]
+02:51:23 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+03:14:33 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+03:14:34 **** Incremental Build of configuration Nios II for project Instrument_bsp ****
+make all 
+[BSP build complete]
+03:14:43 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+03:15:02 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+03:15:28 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+04:02:58 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+04:02:59 **** Incremental Build of configuration Nios II for project Instrument_bsp ****
+make all 
+[BSP build complete]
+04:03:25 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+04:03:48 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+04:04:10 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+04:12:38 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+04:12:39 **** Incremental Build of configuration Nios II for project Instrument_bsp ****
+make all 
+[BSP build complete]
+04:12:56 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+04:28:35 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+04:28:36 **** Incremental Build of configuration Nios II for project Instrument_bsp ****
+make all 
+[BSP build complete]
+04:28:46 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+04:29:04 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+04:29:22 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+04:44:12 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+04:44:13 **** Incremental Build of configuration Nios II for project Instrument_bsp ****
+make all 
+[BSP build complete]
+04:44:25 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+05:01:51 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+05:01:53 **** Incremental Build of configuration Nios II for project Instrument_bsp ****
+make all 
+[BSP build complete]
+05:02:07 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+09:05:56 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+09:05:59 **** Incremental Build of configuration Nios II for project Instrument_bsp ****
+make all 
+[BSP build complete]
+09:06:13 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+09:17:12 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]
+09:17:13 **** Incremental Build of configuration Nios II for project Instrument_bsp ****
+make all 
+[BSP build complete]
+09:17:23 **** Incremental Build of configuration Nios II for project Instrument ****
+make all 
+Info: Building ../Instrument_bsp/
+C:/intelFPGA_lite/18.0/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Instrument_bsp/
+[BSP build complete]
+[Instrument build complete]

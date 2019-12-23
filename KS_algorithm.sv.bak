@@ -1,0 +1,8 @@
+module karplusAlg(
+	input clock,
+	input next,
+	
+	output filteredNoise
+)
+//oof idk... get white noise working then try? 
+endmodule

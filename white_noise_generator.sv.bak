@@ -1,0 +1,9 @@
+module whiteNoiseGenerator(
+		input clk,
+		output [15:0] whiteNoise
+)
+//generates random 16bits
+
+
+
+endmodule

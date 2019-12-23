@@ -1,0 +1,14 @@
+
+State Machine - |KS_algorithm|state
+Name state.WAIT2 state.WAIT1 state.UPDATEPTR2 state.UPDATEPTR1 state.CALCULATE state.LOADB2 state.LOADB state.LOADA2 state.LOADA state.INITIALIZE state.HOLD 
+state.HOLD 0 0 0 0 0 0 0 0 0 0 0 
+state.INITIALIZE 0 0 0 0 0 0 0 0 0 1 1 
+state.LOADA 0 0 0 0 0 0 0 0 1 0 1 
+state.LOADA2 0 0 0 0 0 0 0 1 0 0 1 
+state.LOADB 0 0 0 0 0 0 1 0 0 0 1 
+state.LOADB2 0 0 0 0 0 1 0 0 0 0 1 
+state.CALCULATE 0 0 0 0 1 0 0 0 0 0 1 
+state.UPDATEPTR1 0 0 0 1 0 0 0 0 0 0 1 
+state.UPDATEPTR2 0 0 1 0 0 0 0 0 0 0 1 
+state.WAIT1 0 1 0 0 0 0 0 0 0 0 1 
+state.WAIT2 1 0 0 0 0 0 0 0 0 0 1 

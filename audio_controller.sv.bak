@@ -1,0 +1,22 @@
+// figure out 48khz clock
+//initial set up state machine
+//controller
+//random noise generator
+
+
+module audioController(
+	input logic clk,
+	input logic reset,
+	input logic ready,
+	
+	output logic lOut,
+	output logic rOut,
+	
+		
+
+)
+
+enum logic [1:0](HOLD, playSound)
+
+
+endmodule

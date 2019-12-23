@@ -1,0 +1,142 @@
+Quartus Prime Archive log --	C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/SynthesizerFinal_tmp_archive.qarlog
+
+Archive:	C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/SynthesizerFinal_tmp_archive.qar
+Date:		Thu Dec 12 09:34:11 2019
+Quartus Prime		18.0.0 Build 614 04/24/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/Color_Mapper.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/HexDriver.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/KS_algorithm.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/PNG To Hex/On-Chip Memory/boomROM.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/PNG To Hex/On-Chip Memory/crash2ROM.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/PNG To Hex/On-Chip Memory/crashROM.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/PNG To Hex/On-Chip Memory/dotROM.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/PNG To Hex/On-Chip Memory/drumsROM.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/PNG To Hex/On-Chip Memory/frameROM.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/PNG To Hex/On-Chip Memory/letterAROM.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/PNG To Hex/On-Chip Memory/pianoROM.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/PNG To Hex/On-Chip Memory/stringsROM.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/SynthesizerFinal.qpf
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/SynthesizerFinal.qsf
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/VGA_controller.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/audio_controller.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/audio_interface.vhd
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/ball.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/drumkit.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/hpi_io_intf.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/mem_bass.mif
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/mem_cymbal.mif
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/mem_snare.mif
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system.qsys
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system.sopcinfo
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/nios_system.cmp
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/nios_system.debuginfo
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/nios_system.qip
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/nios_system.regmap
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/nios_system.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/altera_avalon_sc_fifo.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/altera_avalon_st_clock_crosser.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.sdc
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/altera_avalon_st_pipeline_base.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/altera_merlin_arbitrator.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/altera_merlin_master_agent.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/altera_merlin_master_translator.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/altera_merlin_slave_agent.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/altera_merlin_slave_translator.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/altera_reset_controller.sdc
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/altera_reset_controller.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/altera_reset_synchronizer.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/altera_std_synchronizer_nocut.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_irq_mapper.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_jtag_uart_0.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_keycode.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_mm_interconnect_0.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux_001.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux_001.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_001.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_002.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_003.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux_001.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux_001.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_nios2_gen2_0.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu.sdc
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_debug_slave_sysclk.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_debug_slave_tck.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_debug_slave_wrapper.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_ociram_default_contents.mif
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_rf_ram_a.mif
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_rf_ram_b.mif
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_nios2_gen2_0_cpu_test_bench.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_onchip_memory2_0.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_onchip_memory_0.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_onchip_memory_1.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_otg_hpi_address.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_otg_hpi_cs.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_otg_hpi_data.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_sdram.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_sdram_pll.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/nios_system/synthesis/submodules/nios_system_sysid_qsys_0.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/noteMux.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/noteMuxGuitar.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/png to hex/on-chip memory/sprite_bytes/boom.txt
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/png to hex/on-chip memory/sprite_bytes/crash.txt
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/png to hex/on-chip memory/sprite_bytes/crash2.txt
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/png to hex/on-chip memory/sprite_bytes/dot.txt
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/png to hex/on-chip memory/sprite_bytes/drums.txt
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/png to hex/on-chip memory/sprite_bytes/lettera.txt
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/png to hex/on-chip memory/sprite_bytes/letterd.txt
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/png to hex/on-chip memory/sprite_bytes/lettere.txt
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/png to hex/on-chip memory/sprite_bytes/letterf.txt
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/png to hex/on-chip memory/sprite_bytes/letterg.txt
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/png to hex/on-chip memory/sprite_bytes/letterh.txt
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/png to hex/on-chip memory/sprite_bytes/letterj.txt
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/png to hex/on-chip memory/sprite_bytes/letterk.txt
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/png to hex/on-chip memory/sprite_bytes/letters.txt
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/png to hex/on-chip memory/sprite_bytes/lettert.txt
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/png to hex/on-chip memory/sprite_bytes/letteru.txt
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/png to hex/on-chip memory/sprite_bytes/letterw.txt
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/png to hex/on-chip memory/sprite_bytes/lettery.txt
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/png to hex/on-chip memory/sprite_bytes/piano.txt
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/png to hex/on-chip memory/sprite_bytes/stage.txt
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/png to hex/on-chip memory/sprite_bytes/strings1.txt
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/scope.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/sine_table.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/testbench.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/top_level.sv
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/vga_clk.v
+C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/white_noise_generator.sv
+c:/intelfpga_lite/18.0/quartus/bin64/assignment_defaults.qdf
+	======= Total: 112 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Thu Dec 12 09:35:16 2019
+Source archive file:	C:/dev/385/MultiInstrumentSynth/FPGASynthesizer/SynthesizerFinal_tmp_archive.qar
+Quartus Prime failed to read the archive or extract some files into 
+	D:/AB4/alyssal3_emmaee2/.
+	======= Files failed to restore before extraction terminated: ======
+png to hex/on-chip memory/sprite_bytes/stage.txt
+png to hex/on-chip memory/sprite_bytes/strings1.txt
+scope.sv
+sine_table.sv
+testbench.sv
+top_level.sv
+vga_clk.v
+white_noise_generator.sv
+assignment_defaults.qdf
+zlib_out_time_stamp_tmp.tmp
+			[10 file(s)]
+
